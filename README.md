@@ -1,6 +1,6 @@
-# flutter_app
+# Random Words Generator
 
-A new Flutter application.
+A sample application to generate random words using Flutter SDK.
 
 ## Getting Started
 
